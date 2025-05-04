@@ -1,0 +1,19 @@
+websockets==13.1
+Flask==3.1.0
+flasgger==0.9.7.1
+flask-cors==5.0.0
+# chromadb==0.6.3
+langchain==0.3.18
+langchain_community==0.3.17
+# langchain_chroma==0.2.2
+# langchain_unstructured==0.1.6
+# unstructured==0.16.20
+# sentence_transformers==3.4.1
+langgraph
+pygame
+pyaudio
+python-dotenv
+numpy
+browser_use
+playwright
+pytz
